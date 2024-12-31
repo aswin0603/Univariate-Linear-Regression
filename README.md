@@ -17,7 +17,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ```python
 
 ''' 
-Program to QR decomposition using the Gram-Schmidt method
+Program to Implement Univariate Linear regression
 Developed by: Aswin B
 RegisterNumber: 24900642
 '''
